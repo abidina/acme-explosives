@@ -1,0 +1,112 @@
+{
+    "products": [
+        "fairy_sparklers" : {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },        
+        "personal_three" : {
+            "id": 1,
+            "type": 0,
+            "name": "Personal Two",
+            "description": "Blah."
+        },        
+        "personal_three": {
+            "id": 2,
+            "type": 0,
+            "name": "Personal Three",
+            "description": "Blah blah."
+        },
+        "big_boom": {
+            "id": 3,
+            "type": 1,
+            "name": "Big Boom",
+            "description": "The big kind of firework."
+        },        
+        "commercial_two": {
+            "id": 4,
+            "type": 1,
+            "name": "Commercial Two",
+            "description": "It's too big for you."
+        },        
+        "commercial_three": {
+            "id": 5,
+            "type": 1,
+            "name": "Commercial Three",
+            "description": "Don't even think about it."
+        },
+        "bottle_rockets": {
+            "id": 6,
+            "type": 2,
+            "name": "Bottle Rockets",
+            "description": "The loud whistle-y kind of firework."
+        },              
+        "another_type_two": {
+            "id": 7,
+            "type": 2,
+            "name": "Another Type Two",
+            "description": "Also good for personal use, should just be under personal, sorry."
+        },              
+        "another_type_three": {
+            "id": 8,
+            "type": 2,
+            "name": "Another Type Three",
+            "description": "There actually aren't this many kinds of things that explode. This one is red."
+        },        
+        "dynamite": {
+            "id": 9,
+            "type": 3,
+            "name": "Dynamite",
+            "description": "A dynamite."
+        },             
+        "dynamite_two": {
+            "id": 10,
+            "type": 3,
+            "name": "Dynamite Two",
+            "description": "Another dynamite."
+        },             
+        "dynamite_three": {
+            "id": 11,
+            "type": 3,
+            "name": "Dynamite Three",
+            "description": "And another dynamite."
+        },       
+        "tovex": {
+            "id": 12,
+            "type": 4,
+            "name": "Tovex",
+            "description": "Whatever Tovex is - some kind of gel."
+        },          
+        "tovex_two": {
+            "id": 13,
+            "type": 4,
+            "name": "Tovex Two",
+            "description": "You're not alone."
+        },          
+        "tovex_three": {
+            "id": 14,
+            "type": 4,
+            "name": "Tovex Three",
+            "description": "Just hold on."
+        },        
+        "TNT": {
+            "id": 15,
+            "type": 5,
+            "name": "TNT",
+            "description": "A TNT."
+        },        
+        "TNT_Two": {
+            "id": 16,
+            "type": 5,
+            "name": "TNT Two",
+            "description": "Another TNT."
+        },        
+        "TNT_Three": {
+            "id": 17,
+            "type": 5,
+            "name": "TNT Three",
+            "description": "Please don't blow anything up."
+        }
+    ]
+}

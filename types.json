@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },        
+        {
+            "id": 1,
+            "category": 0,
+            "name": "commercial",
+            "description": "Fireworks intended for recreational use during holiday celebrations, but not by YOU personally"
+        },        
+        {
+            "id": 2,
+            "category": 0,
+            "name": "another-type",
+            "description": "3rd type of fireoworks"
+        },        
+        {
+            "id": 3,
+            "category": 1,
+            "name": "dynamite",
+            "description": "Good for when Road Runner blows up Wiley Coyote."
+        },        
+        {
+            "id": 4,
+            "category": 1,
+            "name": "tovex",
+            "description": "The only only explosive that hasn't been used as an instrument of warfare!"
+        },        
+        {
+            "id": 5,
+            "category": 1,
+            "name": "tnt",
+            "description": "Safe and stable, yay! Good for everyone, no exceptions."
+        }
+    ]
+}
