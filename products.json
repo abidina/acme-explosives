@@ -1,5 +1,5 @@
 {
-    "products": [
+    "products": [{
         "fairy_sparklers" : {
             "id": 0,
             "type": 0,
@@ -108,5 +108,5 @@
             "name": "TNT Three",
             "description": "Please don't blow anything up."
         }
-    ]
+    }]
 }
