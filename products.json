@@ -1,5 +1,6 @@
 {
-    "products": [{
+    "products": [
+    {
         "fairy_sparklers" : {
             "id": 0,
             "type": 0,
