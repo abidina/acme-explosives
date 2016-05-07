@@ -59,26 +59,24 @@ $(document).ready(function() {
   });
 })
 
+console.log(categories);
+
 // ----- Make keys/values in products object accessible ----- //
 var accessProductInfo = function() {
   var myProducts = products[0];
   console.log("my products", myProducts);
   for (var product in myProducts) { // create something for DOM
-    console.log('product', myProducts[product].type);
+    console.log('product', myProducts[product].name);
   };
 };
 
 //select fireworks or demolition
 $('#fireworksCat').click(function () {
-  accessProductInfo();
-  //still can't access variable "myProducts"
-  if (myProducts[product].type <= 2) {
-    $('#productArea').html('<p>' + myProducts[product].name + '</p>');
-  }
+
 });
 
 $('#demolitionCat').click(function () {
-  accessProductInfo();
+
 });
 
 
